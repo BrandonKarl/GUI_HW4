@@ -1,0 +1,99 @@
+/*
+Name: Brandon Karl, brandon_karl@student.uml.edu
+Computer Science Department, UMass Lowell
+Comp.4610, GUI Programming I
+File: /usr/cs/2018/bkarl/public_html/
+Created: 10-nov-2017
+Last updated by HL: 10-Nov-2017, 8:17
+*/
+
+
+/* 
+  Overall Style for app
+ */
+.App {
+  text-align: center;
+}
+
+/* 
+  Style for top area/forms
+ */
+.jumbotron h1 {
+  font-size: 60px;
+}
+
+label {
+  display: block;
+}
+
+form {
+  margin-top: 40px;
+}
+
+input {
+  width: 60%;
+}
+
+button {
+  margin-top: 40px;
+  width: 80%;
+}
+
+.center-block {
+  float: none;
+  margin: 0 auto;
+}
+/* 
+  Error styles
+*/
+span {
+  display: block;
+  color:red;
+}
+
+/* 
+  Table styling
+ */
+table {
+  margin: auto;
+  width: 80%;
+  border-collapse: collapse;
+}
+
+td {
+  margin: auto;
+  width: 25%;
+  border: 1px solid black;
+}
+
+.blank {
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+.info {
+  width: 50px;
+  height: 10px;
+  background-color: lightblue;
+  display: inline-block;
+}
+
+/* 
+  Style table key
+ */
+
+.table-container {
+  width: 80%;
+  margin: auto;
+  margin-bottom: 40px;
+}
+
+.table-container span{
+  display: initial;
+  color: black;
+  font-size: 15px;
+}
+
+.total {
+  background-color: lightblue;
+}

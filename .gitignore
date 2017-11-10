@@ -3,6 +3,8 @@
 # dependencies
 /node_modules
 
+pachage-lock.json
+
 # testing
 /coverage
 

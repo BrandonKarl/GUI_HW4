@@ -2,7 +2,7 @@
   "name": "hw4",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://weblab.cs.uml.edu/~bkarl/hw4",
+  "homepage": "http://weblab.cs.uml.edu/~bkarl/461f2017/hw4",
   "dependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
